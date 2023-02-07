@@ -1,6 +1,6 @@
-# Confluent Cloud AW Terraform
-Terraform script to setup a Kafka Cluster with a default Schema Registry in Confluent Cloud using AWS
+# Confluent Cloud AWS Terraform
 
+Terraform script to setup a Kafka Cluster with a default Schema Registry in Confluent Cloud using AWS
 
 ## Step 1: Create ConfluentCloud API-Key
 
